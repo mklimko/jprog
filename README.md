@@ -1,6 +1,7 @@
 # Języki programowania
 
 - [ ] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
+- [ ] Podstawy GitHub
 - [ ] Atom edytor
 - [ ] Bash
 - [ ] SSH
