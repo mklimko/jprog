@@ -1,14 +1,16 @@
-# Języki programowania
+  # Języki programowania
 
-- [x] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/syntax)
+- [x] Podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/syntax)
 - [x] Podstawy GitHub
--     [x] instalacja GitHub na wlasnym komputerze
+-   [x] Instalacja GitHub na własnym komputerze
 - [x] Atom edytor
--     [x] instalacja Atom edytora na wasnym komputerze
+-   [x] Instalacja Atom edytora na własnym komputerze
+-   [x] Edycja README.md
 - [x] Bash
--     [x] instalacja terminala na wasnym komputerze (terminal windowsowy nie chce wspólpracować...)
-- [ ] SSH
-- [ ] hasła
+-   [x] Instalacja terminala na wasnym komputerze (terminal windowsowy nie chce wspólpracować...)
+- [x] SSH
+-   [x] Wygenerowany nowy klucz publiczny dla własnego komputera
+- [ ] Hasła
 
 ## Pierwsze programy w C
 
