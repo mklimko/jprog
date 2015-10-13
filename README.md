@@ -1,9 +1,12 @@
 # Języki programowania
 
-- [ ] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
-- [ ] Podstawy GitHub
-- [ ] Atom edytor
-- [ ] Bash
+- [ ] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/syntax)
+- [x] Podstawy GitHub
+-     [x] instalacja GitHub na wasnym komputerze
+- [x] Atom edytor
+-     [x] instalacja Atom edytora na wasnym komputerze
+- [x] Bash
+-     [x] instalacja terminala na wasnym komputerze (terminal windowsowy nie chce wspólpracować...)
 - [ ] SSH
 - [ ] hasła
 
