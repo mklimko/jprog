@@ -1,4 +1,4 @@
-  # Języki programowania
+# Języki programowania
 
 - [x] Podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/syntax)
 - [x] Podstawy GitHub
