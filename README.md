@@ -1,6 +1,6 @@
 # Języki programowania
 
-- [ ] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
+- [x] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
 - [ ] Atom edytor
 - [ ] Bash
 - [ ] SSH
@@ -14,4 +14,14 @@ Zwykle zaczynamy od programu [hello world](/):
 int main() {
   printf("hello world\n");
   }
+```
+
+# Laboratoria w C
+
+1. Budowanie programów:
+
+* [ ][5a.c](01-budowanie_programow/5a.c)
+* [ ][5a.b](01-budowanie_programow/5b.c)
+```
+
 ```
