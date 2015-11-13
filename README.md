@@ -1,4 +1,4 @@
-  # Języki programowania
+# Języki programowania
 
 - [x] Podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/syntax)
 - [x] Podstawy GitHub
@@ -7,7 +7,6 @@
 -   [x] Instalacja Atom edytora na własnym komputerze
 -   [x] Edycja README.md
 - [x] Bash
--   [x] Instalacja terminala na wasnym komputerze (terminal windowsowy nie chce wspólpracować...)
 - [x] SSH
 -   [x] Wygenerowany nowy klucz publiczny dla własnego komputera
 - [ ] Hasła
