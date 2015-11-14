@@ -10,9 +10,7 @@ int main() {
     printf("Pierwsza liczba musi być mniejsza od drugiej.\n");
   }
 
-
-for (a = a - 1; a < b; a++) {
-  printf("%d\n", a + 1);
-}
-
+  for (a = a - 1; a < b; a++) {
+    printf("%d\n", a + 1);
+  }
 }
