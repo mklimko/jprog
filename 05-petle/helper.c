@@ -1,7 +1,7 @@
-//
-
 #include <stdio.h>
 #include <stdlib.h>
+
+#include "helper.h"
 
 void wczytaj_liczbe_calkowita(int *n_p){
   printf("Podaj liczbę całkowitą większą od 0: ");
@@ -13,17 +13,5 @@ if (*n_p <= 0) {
   }
 }
 
-int main() {
-int n, suma = 0;
-int i; //kolejne liczby od 1
-
-wczytaj_liczbe_calkowita(&n);
-
-i = 1;
-while (i <= n) {
-  suma += i;
-  i++;
-  }
-
-  printf("Suma: %d\n", suma);
+void wczytaj_liczby_calkowite_do_tablicy(int tab[], int len) {
 }
