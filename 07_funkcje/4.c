@@ -19,3 +19,5 @@ while (x != 0) {
   printf("Odwrotność Twojej liczby to: %d\n", reverse);
 return 0;
 }
+// coś tu nadal nie gra, zamiast 0141 wypisuje 141
+// problem z kończeniem programu (get your shit together, girl!)
