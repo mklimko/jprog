@@ -11,5 +11,5 @@ int C(int n, int k) {
 }
 int main() {
   printf("C(%d, %d) = %d\n", 4, 2, C(4, 2));
-  printf("C(%d, %d) = %d\n", 9, 4, C(9, 4));
+  printf("C(%d, %d) = %d\n", 49, 6, C(49, 6));
 }
