@@ -24,7 +24,7 @@ int main() {
 - [x] [5b.c](01_budowanie_programow/5b.c)
 - [x] [6.c](01_budowanie_programow/6.c)
 - [x] [7.c](01_budowanie_programow/7.c)
-- [x] [8.c](01_budowanie_programow/8.c)
+- [ ] [8.c](01_budowanie_programow/8.c)
 - [ ] [9.c](01_budowanie_programow/9.c)
 
 #### Pętle (+ Makefile)
