@@ -17,3 +17,7 @@ int main() {
   }
 ```
 
+## Zadania
+
+### Budowanie programów
+[ ] [5a.c](01_budowanie_programow/5a.c)
