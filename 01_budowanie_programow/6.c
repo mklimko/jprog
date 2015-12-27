@@ -7,10 +7,10 @@ int main() {
 
   printf("Podaj liczbę: ");
   scanf("%lf", &a);
-  
+
   if (a < 0) {
     printf ("Błąd: podana liczba nie może być ujemna.\n");
-    exit(1);
+  exit(1);
   }
   else {
     printf("Pierwiastek kwadratowy: %lf", a * a);
