@@ -7,7 +7,7 @@ int main() {
   printf("Podaj liczbę: \n");
   scanf("%d\n", &n);
 
-  if (n < 0 || n > 15) {
+  if (n < 0 || n > 15) { /* niezbyt duża liczba naturalna */
     printf("Podaj mniejszą liczbę: \n");
     exit(1);
   }
