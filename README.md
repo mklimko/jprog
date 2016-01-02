@@ -24,8 +24,15 @@ int main() {
 - [x] [5b.c](01_budowanie_programow/5b.c)
 - [x] [6.c](01_budowanie_programow/6.c)
 - [x] [7.c](01_budowanie_programow/7.c)
-- [ ] [8.c](01_budowanie_programow/8.c)
-- [ ] [9.c](01_budowanie_programow/9.c)
+- [x] [8.c](01_budowanie_programow/8.c)
+- [x] [9.c](01_budowanie_programow/9.c)
+
+#### Elementarz 1 (+ Makefile)
+- [x] [1.c](04_elementarz1/1.c)
+- [x] [2.c](04_elementarz1/2.c)
+- [x] [3.c](04_elementarz1/3.c)
+- [x] [4.c](04_elementarz1/4.c)
+- [x] [5.c](04_elementarz1/5.c)
 
 #### Pętle (+ Makefile)
 - [x] [0.c](05-petle/0.c)
@@ -36,6 +43,8 @@ int main() {
 - [x] [4.c](05-petle/4.c)
 - [x] [5.c](05-petle/5.c)
 - [x] [6.c](05-petle/6.c)
+- [x] [7.c](05-petle/7.c)
+- [ ] [8.c](05-petle/8.c)
 
 #### Funkcje (+ Makefile)
 - [x] [1.c](07_funkcje/1.c)
@@ -43,8 +52,11 @@ int main() {
 - [x] [3.c](07_funkcje/3.c)
 - [x] [4.c](07_funkcje/4.c)
 
-#### Elementarz 3
+#### Elementarz 3 (+ Makefile)
 - [x] [1.c](10_elementarz3/1.c)
+- [x] [2.c](10_elementarz3/2.c)
+- [x] [3.c](10_elementarz3/3.c)
+- [x] [4.c](10_elementarz3/4.c)
 
 #### Rekurencja (+ Makefile)
 - [x] [1.c](11_rekurencja/1.c)

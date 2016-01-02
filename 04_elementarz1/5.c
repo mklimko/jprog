@@ -6,17 +6,18 @@ int main () {
   int c;
   int nb, nt, nl;
 
+  nb = 0;
+  nt = 0;
+  nl = 0;
+
   while ((c=getchar()) != EOF) {
     if (c == ' ') {
-      nb = 0;
       ++nb;
     }
     else if (c == '\t') {
-      nt = 0;
       ++nt;
     }
     else if (c == '\n') {
-      nl = 0;
       ++nl;
     }
   }
