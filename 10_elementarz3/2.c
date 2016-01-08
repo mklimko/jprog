@@ -8,6 +8,5 @@ int main() {
 
   for (i = 1; i <= 20; i++) {
     printf("%.0f\t%.3f\n", i, sqrt(i));
-
   }
 }
