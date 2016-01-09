@@ -42,10 +42,10 @@ int main() {
 - [x] [3.c](05-petle/3.c)
 - [x] [4.c](05-petle/4.c)
 - [x] [5.c](05-petle/5.c)
-- [x] [6.c](05-petle/6.c)
+- [ ] [6.c](05-petle/6.c)
 - [x] [7.c](05-petle/7.c)
 - [x] [8.c](05-petle/8.c)
-- [x] [9.c](05-petle/9.c) prawie działa
+- [ ] [9.c](05-petle/9.c) prawie działa
 
 #### Funkcje (+ Makefile)
 - [x] [1.c](07_funkcje/1.c)
