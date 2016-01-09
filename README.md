@@ -44,7 +44,7 @@ int main() {
 - [x] [5.c](05-petle/5.c)
 - [ ] [6.c](05-petle/6.c)
 - [x] [7.c](05-petle/7.c)
-- [x] [8.c](05-petle/8.c)
+- [ ] [8.c](05-petle/8.c)
 - [ ] [9.c](05-petle/9.c) prawie działa
 
 #### Funkcje (+ Makefile)
