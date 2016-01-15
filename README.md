@@ -52,6 +52,7 @@ int main() {
 - [x] [2.c](07_funkcje/2.c)
 - [x] [3.c](07_funkcje/3.c)
 - [x] [4.c](07_funkcje/4.c)
+- [x] [5test.c](07_funkcje/5test.c) problem z wyświetlaniem wzorów
 
 #### Elementarz 2 (+ Makefile)
 - [x] [1.c](08_elementarz2/1.c)
